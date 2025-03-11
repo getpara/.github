@@ -11,11 +11,11 @@ If you don't have an API key yet, get one [here](https://getpara.com)
 
 ## Example Guides
 
-The [Capsule Docs](https://docs.getpara.com) are the best place to view a full reference.
+The [Para Docs](https://docs.getpara.com) are the best place to view a full reference.
 
 If you're looking for code examples to make integrations simpler, look through the pinned repositories on this page or check out the [Examples Hub](https://docs.getpara.com/getting-started/examples) for a full list.
 
-We also have a variety of [Starter Templates](https://github.com/getpara/starter-templates) and [Per-Framework Examples](https://github.com/getpara/new-examples-hub)
+We also have a variety of [Starter Templates](https://github.com/getpara/starter-templates) and [Per-Framework Examples](https://github.com/getpara/examples-hub)
 
 ## We're Here to Help!
 
